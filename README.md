@@ -167,8 +167,24 @@ Check the console output for `javac` error messages. Common issues:
 
 ## License
 
-[Add your license here]
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
-[Add contribution guidelines here]
+Contributions are welcome! To contribute:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/your-feature`)
+3. Commit your changes (`git commit -m "Add your feature"`)
+4. Push to the branch (`git push origin feature/your-feature`)
+5. Open a Pull Request
+
+Please ensure your code follows the existing style and includes appropriate error handling.
+
+## Author
+
+Slint
+
+## Support
+
+If you encounter any issues or have questions, please [open an issue](https://github.com/yourusername/SFDeploySlot/issues) on GitHub.
