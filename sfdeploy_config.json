@@ -1,0 +1,9 @@
+{
+  "java_path": "C:\\Program Files\\Java\\jdk-11\\bin",
+  "source_dir": "C:\\Projects\\WorkSpace\\FishServer\\FishyGame",
+  "target_dir": "C:\\Users\\Slint\\SmartFoxServer_2X",
+  "extension_folder": "SlotZone",
+  "extension_file": "ServerExtension.jar",
+  "json_source_dir": "C:\\Projects\\WorkSpace\\FishServer\\FishyGame\\src\\game\\slot\\jsons",
+  "deploy_json_files": ["BeachDay", "Olympus", "SugarRush", "KrakenQueen", "FuXingGaoZhao", "FongSheng", "Santa"]
+}
